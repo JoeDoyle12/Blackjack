@@ -1,2 +1,2 @@
 # Blackjack
-A simple blackjack application
+A simple blackjack application in Java
